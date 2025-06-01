@@ -20,7 +20,7 @@
           <mxGeometry x="280" y="400" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_lApZH-5XOi6uQi7uIj1-12" value="仿真并生成回波信号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
-          <mxGeometry x="310" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="460" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_lApZH-5XOi6uQi7uIj1-13" value="将GPU端计算结果拷贝回CPU端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
           <mxGeometry x="320" y="510" width="120" height="60" as="geometry" />
