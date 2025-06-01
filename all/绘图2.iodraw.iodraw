@@ -16,9 +16,6 @@
         <mxCell id="_lApZH-5XOi6uQi7uIj1-5" value="数据初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="240" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_lApZH-5XOi6uQi7uIj1-10" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="200" width="120" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="_lApZH-5XOi6uQi7uIj1-11" value="计算地面场景各散射点相关参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="400" width="120" height="40" as="geometry" />
         </mxCell>
@@ -31,8 +28,8 @@
         <mxCell id="_lApZH-5XOi6uQi7uIj1-14" value="回波数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="590" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_lApZH-5XOi6uQi7uIj1-15" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="120" height="80" as="geometry" />
+        <mxCell id="_lApZH-5XOi6uQi7uIj1-15" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
