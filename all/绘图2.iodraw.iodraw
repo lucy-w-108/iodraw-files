@@ -17,7 +17,7 @@
           <mxGeometry x="280" y="240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_lApZH-5XOi6uQi7uIj1-11" value="计算地面场景各散射点相关参数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
-          <mxGeometry x="200" y="400" width="240" height="40" as="geometry" />
+          <mxGeometry x="240" y="400" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_lApZH-5XOi6uQi7uIj1-12" value="仿真并生成回波信号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
           <mxGeometry x="280" y="480" width="160" height="40" as="geometry" />
@@ -28,8 +28,11 @@
         <mxCell id="_lApZH-5XOi6uQi7uIj1-14" value="回波数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;fontFamily=Verdana;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
           <mxGeometry x="294" y="620" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_lApZH-5XOi6uQi7uIj1-15" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+        <mxCell id="_lApZH-5XOi6uQi7uIj1-15" value="为数据分配内存和显存空间" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
           <mxGeometry x="480" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_lApZH-5XOi6uQi7uIj1-16" value="为数据分配内存和显存空间" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
