@@ -32,10 +32,10 @@
           <mxGeometry x="490" y="220" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_lApZH-5XOi6uQi7uIj1-16" value="在GPU端计算，并行变量为方位向脉冲数" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;fontFamily=Verdana;fontSize=15;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
-          <mxGeometry x="490" y="300" width="290" height="40" as="geometry" />
+          <mxGeometry x="480" y="290" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_lApZH-5XOi6uQi7uIj1-17" value="在GPU端计算，并行变量为地面场景点数" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;fontFamily=Verdana;fontSize=15;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
-          <mxGeometry x="510" y="350" width="160" height="60" as="geometry" />
+          <mxGeometry x="510" y="360" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_lApZH-5XOi6uQi7uIj1-18" value="在GPU端计算，并行变量为地面场景点数" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;fontFamily=Verdana;fontSize=15;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
           <mxGeometry x="520" y="420" width="160" height="60" as="geometry" />
