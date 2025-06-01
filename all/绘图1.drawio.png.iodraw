@@ -1,0 +1,203 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="haAK_K846XTXVB5IHKvB">
+    <mxGraphModel dx="1213" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nWJPFvp11CpYTakQvRAe-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-1" target="nWJPFvp11CpYTakQvRAe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-1" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;注入轨道摄动误差&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#dae8fc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-10" target="nWJPFvp11CpYTakQvRAe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-10" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;注入姿态误差和天线指向误差&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#dae8fc;strokeColor=default;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="35" y="205" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-11" target="nWJPFvp11CpYTakQvRAe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-11" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;注入系统幅相误差&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#dae8fc;strokeColor=default;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="475" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-12" target="nWJPFvp11CpYTakQvRAe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-12" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;确定各脉冲的方位时刻及卫星位置&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="175" y="110" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-13" target="nWJPFvp11CpYTakQvRAe-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-13" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;确定卫星波束指向&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="205" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-15" target="nWJPFvp11CpYTakQvRAe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-15" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;计算各散射点与发射天线相位中心间的距离矢量&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-16" target="nWJPFvp11CpYTakQvRAe-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-16" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;计算回波信号接收时刻&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="360" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-17" target="nWJPFvp11CpYTakQvRAe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-17" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;计算各散射点与各接收天线相位中心间的距离矢量&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-18" target="nWJPFvp11CpYTakQvRAe-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-18" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;计算各脉冲回波信号&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="190" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-19" target="nWJPFvp11CpYTakQvRAe-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-19" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;计算各子带回波信号&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="190" y="530" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-20" target="nWJPFvp11CpYTakQvRAe-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-20" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;数据压缩编码&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="190" y="670" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-21" target="nWJPFvp11CpYTakQvRAe-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-21" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;回波数据打包&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="190" y="720" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-22" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;计算雷达系统发射脉冲时刻&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-23" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;计算脉冲重复频率变化规律&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-24" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;脉冲重复频率误差&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="390" y="450" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-25" target="nWJPFvp11CpYTakQvRAe-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-25" target="nWJPFvp11CpYTakQvRAe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-25" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Verdana&quot;&gt;轨道参数&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#d5e8d4;strokeColor=default;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="500" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-26" target="nWJPFvp11CpYTakQvRAe-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-26" target="nWJPFvp11CpYTakQvRAe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-26" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;地面场景信息&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#d5e8d4;strokeColor=default;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="590" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-27" target="nWJPFvp11CpYTakQvRAe-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-27" target="nWJPFvp11CpYTakQvRAe-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-27" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;确定仿真中心时刻&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-28" target="nWJPFvp11CpYTakQvRAe-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-28" target="nWJPFvp11CpYTakQvRAe-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="310" />
+              <mxPoint x="440" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-28" target="nWJPFvp11CpYTakQvRAe-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="310" />
+              <mxPoint x="390" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-28" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;建立场景坐标系及布置场景信息&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-29" target="nWJPFvp11CpYTakQvRAe-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-29" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;注入星历参数误差&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#dae8fc;strokeColor=default;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="660" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-30" target="nWJPFvp11CpYTakQvRAe-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-30" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;计算多普勒参数及相关信息&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="610" y="390" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-31" target="nWJPFvp11CpYTakQvRAe-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="360" />
+              <mxPoint x="665" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-31" target="nWJPFvp11CpYTakQvRAe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-31" value="&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 13px;&quot;&gt;雷达系统参数&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillStyle=auto;fillColor=#d5e8d4;strokeColor=default;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="720" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-32" target="nWJPFvp11CpYTakQvRAe-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-32" target="nWJPFvp11CpYTakQvRAe-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="615" />
+              <mxPoint x="30" y="90" />
+              <mxPoint x="175" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-32" value="仿真是否结束" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=13;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="200" y="590" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-33" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;spacingLeft=5;spacingRight=5;fillColor=#fff2cc;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="210" y="780" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nWJPFvp11CpYTakQvRAe-24" target="nWJPFvp11CpYTakQvRAe-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-67" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;否&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nWJPFvp11CpYTakQvRAe-68" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;是&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
