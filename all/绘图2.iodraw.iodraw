@@ -34,7 +34,7 @@
         <mxCell id="_lApZH-5XOi6uQi7uIj1-16" value="在GPU端计算，&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;并行变量为方位向脉冲数&lt;/font&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;fontFamily=Verdana;fontSize=15;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
           <mxGeometry x="400" y="290" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_lApZH-5XOi6uQi7uIj1-17" value="在GPU端计算，&lt;b&gt;并行变量为地面场景点数&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;fontFamily=Verdana;fontSize=15;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
+        <mxCell id="_lApZH-5XOi6uQi7uIj1-17" value="在GPU端计算，&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;并行变量为地面场景点数&lt;/font&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;fontFamily=Verdana;fontSize=15;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
           <mxGeometry x="430" y="360" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_lApZH-5XOi6uQi7uIj1-18" value="在GPU端计算，&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;并行变量为地面场景点数&lt;/font&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;fontFamily=Verdana;fontSize=15;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
